@@ -4,7 +4,7 @@ import datetime
 import time
 
 #key setup
-genai.configure(api_key='AIzaSyAbJoY_3hKTDByJsnd3xQuEDHwNdBWwClg')
+genai.configure(api_key='AIzaSyDnX1j6M8oTnpbNYViN7Qkrlu-Yl9zhi9k')
 # Initialize the model
 model = genai.GenerativeModel("gemini-1.5-flash")
 # System Prompt
